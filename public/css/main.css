@@ -1,0 +1,19 @@
+.jumbotron{
+    background-image: url(../img/background-main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.container > h1{
+    font-weight: 900;
+}
+
+.row h6 {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.row h4 {
+    font-weight: 700;
+    font-size: 20px;
+}
